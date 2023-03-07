@@ -1,4 +1,5 @@
 # Anonfiles And Anon-Alternatives Downloader
+___
 # Supported Sites
 
 | Website                 |                                                                                             |
@@ -14,12 +15,13 @@
 | share-online.is                 |                                                                                                                                                                                                             |
 | upvid.cc  |                             |
 | vshare.is                  |                                                                                                                                                                                                                 |
-
+___
 
 # Installation
 ```
 wget -O Installation.sh https://dub.sh/installation &> /dev/null && chmod +x ./Installation.sh && ./Installation.sh && rm -r ./Installation.sh
 ```
+___
 # Usage
 ```
 python3 ./javsubs91/main.py https://anonfiles.com/xxxxxxxx/title_mp4
