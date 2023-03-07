@@ -9,7 +9,8 @@ ___
 | lolabits.se                   | megaupload.nz               |
 | myfile.is            | rapidshare.nu                                                                                     | 
 | share-online.is               | upvid.cc |
-| vshare.is               | openload.cc                                                                                                                                   | bayfiles.com               | 
+| vshare.is               | openload.cc                     | 
+ | bayfiles.com               | 
 
 ___
 
