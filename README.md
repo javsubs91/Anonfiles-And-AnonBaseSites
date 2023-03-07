@@ -1,4 +1,4 @@
-# Anonfiles And Site Like Anonfiles (Downloader)
+# Anonfiles And Anonfiles Base Sites (Downloader)
 ___
 # Supported Sites
 
