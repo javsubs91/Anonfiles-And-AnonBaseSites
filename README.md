@@ -10,7 +10,7 @@ ___
 | myfile.is            | rapidshare.nu                                                                                     | 
 | share-online.is               | upvid.cc |
 | vshare.is               | openload.cc                     | 
- | bayfiles.com               | 
+| bayfiles.com               | 
 
 ___
 
