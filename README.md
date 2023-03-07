@@ -2,19 +2,15 @@
 ___
 # Supported Sites
 
-| Website                 |                                                                                             |
+ Websites                 | Websites                                                                                                                                                                                                                   |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| anonfiles.com               |                                                                                                                                                                         |
-| filechan.org                |                                                                                                                                                                                                         |
-| hotfile.io                   |                |
-| letsupload.cc            |                                                                                     | 
-| lolabits.se               | |
-| megaupload.nz               |                                                                                                                                     | 
-| myfile.is                |                                                                                                                                                                              |
-| rapidshare.nu                  |                                                                                                                                                                                                            |
-| share-online.is                 |                                                                                                                                                                                                             |
-| upvid.cc  |                             |
-| vshare.is                  |                                                                                                                                                                                                                 |
+| anonfiles.com               | filechan.org                                                                                                                                                                                                       |
+| hotfile.io                | letsupload.cc                                                                                                                                                                                                        |
+| lolabits.se                   | megaupload.nz               |
+| myfile.is            | rapidshare.nu                                                                                     | 
+| share-online.is               | upvid.cc |
+| vshare.is               |                                                                                                                                     | 
+
 ___
 
 # Installation
