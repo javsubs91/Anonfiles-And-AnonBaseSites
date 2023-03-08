@@ -32,6 +32,14 @@ ___
 ```
 python3 ./javsubs91/main.py https://anonfiles.com/xxxxxxxx/title_mp4
 ```
+## Parallel Download
+```
+%%bash
+python3 ./javsubs91/main.py https://anonfiles.com/xxxxxxxx/title_1.mp4 &
+python3 ./javsubs91/main.py https://anonfiles.com/xxxxxxxx/title_2.mp4 &
+python3 ./javsubs91/main.py https://anonfiles.com/xxxxxxxx/title_3.mp4 &
+python3 ./javsubs91/main.py https://anonfiles.com/xxxxxxxx/title_4.mp4 &
+```
 ___
 
 
