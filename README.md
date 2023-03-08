@@ -13,6 +13,15 @@ ___
 | bayfiles.com               | 
 
 ___
+## System Requirements
+
+CentOS 6+ / Debian 6+ / Ubuntu 14.04+
+
+## Architecture support
+
+x86_64/i386/ARM64/ARM32v7/ARM32v6
+
+___
 
 # Installation
 ```
