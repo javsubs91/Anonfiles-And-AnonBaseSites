@@ -24,6 +24,12 @@ ___
 python3 ./javsubs91/main.py https://anonfiles.com/xxxxxxxx/title_mp4
 ```
 ___
-<p align="center">
-<a href="https://www.flagcounter.me/details/dsi"><img src="https://www.flagcounter.me/dsi/" alt="Flag Counter"></a>
-</p>
+
+
+
+<br>
+
+<h3>Visitors :</h3>
+<br>
+<img src="https://profile-counter.glitch.me/Anonfiles-And-AnonBaseSites/count.svg" alt="Visitors">
+
