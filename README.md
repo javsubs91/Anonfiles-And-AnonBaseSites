@@ -16,7 +16,7 @@ ___
 
 # Installation
 ```
-wget -O Installation.sh https://dub.sh/installation &> /dev/null && chmod +x ./Installation.sh && ./Installation.sh && rm -r ./Installation.sh
+wget -O Installation.sh dub.sh/installation &> /dev/null && chmod +x ./Installation.sh && ./Installation.sh && rm -r ./Installation.sh
 ```
 ___
 # Usage
