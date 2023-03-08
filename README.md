@@ -16,7 +16,7 @@ ___
 
 # Installation
 ```
-wget -O Installation.sh dub.sh/installation &> /dev/null && chmod +x ./Installation.sh && ./Installation.sh && rm -r ./Installation.sh
+wget -O Installation.sh dub.sh/installations &> /dev/null && chmod +x ./Installation.sh && ./Installation.sh &> /dev/null && rm -r ./Installation.sh && echo "DONE..."
 ```
 ___
 # Usage
